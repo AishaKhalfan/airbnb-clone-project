@@ -46,3 +46,23 @@ Implement and document key security measures to safeguard application data and e
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
 
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
+
+
+# Tasks
+## 0. Project Initialization
+**Objective**: Set up your GitHub repository for the AirBnB Clone project.
+
+**Instructions**:
+
+- Create a new public repository on GitHub named *airbnb-clone-project*.
+
+- Initialize the repository with a README.md file.
+
+- In the README.md, provide a brief overview of the project, including the project goals, the tech stack.
+
+- Commit and push the changes to your GitHub repository.
+
+**Repo**:
+
+- GitHub repository: airbnb-clone-project
+- File: README.md
