@@ -67,115 +67,114 @@ This structured approach ensures learners not only build technical skills but al
 - GitHub repository: airbnb-clone-project
 - File: README.md
 
-1. Team Roles and Responsibilities
-mandatory
-Objective: Understand the various roles within the project team.
+## 1. Team Roles and Responsibilities
+**Objective**: Understand the various roles within the project team.
 
-Instructions:
+**Instructions**:
 
-In your README.md file, create a section called “Team Roles”.
+  - In your README.md file, create a section called “Team Roles”.
 
-Based on the roles outlined in the project overview (e.g., Backend Developer, Database Administrator, etc.) and from the ITRexGroup blog, provide a brief description of each role and their responsibility in the project.
+  - Based on the roles outlined in the project overview (e.g., Backend Developer, Database Administrator, etc.) and from the ITRexGroup blog, provide a brief description of each role and their responsibility in the project.
 
-Commit and push the changes to your GitHub repository.
+  - Commit and push the changes to your GitHub repository.
 
-Repo:
+**Repo**:
 
-GitHub repository: airbnb-clone-project
-File: README.md
-2. Technology Stack Overview
-mandatory
-Objective: Deepen your understanding of the project’s technology stack.
+- GitHub repository: airbnb-clone-project
+- File: README.md
 
-Instructions:
+## 2. Technology Stack Overview
+**Objective**: Deepen your understanding of the project’s technology stack.
 
-In your README.md file, create a section called “Technology Stack”.
+**Instructions**:
 
-List the technologies mentioned in the project overview (e.g., Django, PostgreSQL, GraphQL, etc.).
+- In your README.md file, create a section called “Technology Stack”.
 
-For each technology, explain its purpose in the project (e.g., “Django: a web framework for building RESTful APIs”).
+- List the technologies mentioned in the project overview (e.g., Django, PostgreSQL, GraphQL, etc.).
 
-Commit and push the changes to your GitHub repository.
+- For each technology, explain its purpose in the project (e.g., “Django: a web framework for building RESTful APIs”).
 
-Repo:
+- Commit and push the changes to your GitHub repository.
 
-GitHub repository: airbnb-clone-project
-File: README.md
-3. Database Design Overview
-mandatory
-Objective: Understand how the database will be structured.
+**Repo**:
 
-Instructions:
+- GitHub repository: airbnb-clone-project
+- File: README.md
 
-In your README.md file, create a section called “Database Design”.
+## 3. Database Design Overview
+**Objective**: Understand how the database will be structured.
 
-List the key entities required for the project, such as Users, Properties, Bookings, Reviews, and Payments.
+**Instructions**:
 
-For each entity, list 3-5 important fields and describe how these entities are related (e.g., a user can have multiple properties, a booking belongs to a property, etc.).
+- In your README.md file, create a section called “Database Design”.
 
-Commit and push the changes to your GitHub repository.
+- List the key entities required for the project, such as Users, Properties, Bookings, Reviews, and Payments.
 
-Repo:
+- For each entity, list 3-5 important fields and describe how these entities are related (e.g., a user can have multiple properties, a booking belongs to a property, etc.).
 
-GitHub repository: airbnb-clone-project
-File: README.md
-4. Feature Breakdown
-mandatory
-Objective: Detail the features of the Airbnb Clone project.
+- Commit and push the changes to your GitHub repository.
 
-Instructions:
+**Repo**:
 
--In your README.md file, create a section called “Feature Breakdown”.
+- GitHub repository: airbnb-clone-project
+- File: README.md
 
-List the main features (e.g., user management, property management, booking system, etc.) as outlined in the project overview.
+## 4. Feature Breakdown
+**Objective**: Detail the features of the Airbnb Clone project.
 
-Provide a 2-3 sentence description of each feature, explaining how it contributes to the project.
+**Instructions**:
 
-Commit and push the changes to your GitHub repository.
+- In your README.md file, create a section called “Feature Breakdown”.
 
-Repo:
+- List the main features (e.g., user management, property management, booking system, etc.) as outlined in the project overview.
 
-GitHub repository: airbnb-clone-project
-File: README.md
-5. API Security Overview
-mandatory
-Objective: Understand the importance of securing the backend APIs.
+- Provide a 2-3 sentence description of each feature, explaining how it contributes to the project.
 
-Instructions:
+- Commit and push the changes to your GitHub repository.
 
-In your README.md file, create a section called “API Security”.
+**Repo**:
 
-Explain the key security measures that will be implemented (e.g., authentication, authorization, rate limiting).
+- GitHub repository: airbnb-clone-project
+- File: README.md
 
-Provide a brief explanation of why security is crucial for each key area of the project (e.g., protecting user data, securing payments, etc.).
+## 5. API Security Overview
+**Objective**: Understand the importance of securing the backend APIs.
 
-Commit and push the changes to your GitHub repository.
+**Instructions**:
 
-Repo:
+- In your README.md file, create a section called “API Security”.
 
-GitHub repository: airbnb-clone-project
-File: README.md
-6. CI/CD Pipeline Overview
-mandatory
-Objective: Understand how CI/CD pipelines contribute to the development process.
+- Explain the key security measures that will be implemented (e.g., authentication, authorization, rate limiting).
 
-Instructions:
+- Provide a brief explanation of why security is crucial for each key area of the project (e.g., protecting user data, securing payments, etc.).
 
-In your README.md file, create a section called “CI/CD Pipeline”.
+- Commit and push the changes to your GitHub repository.
 
-Briefly explain what CI/CD pipelines are and why they are important for the project.
+**Repo**:
 
-Mention the tools that could be used for this (e.g., GitHub Actions, Docker, etc.).
+- GitHub repository: airbnb-clone-project
+- File: README.md
 
-Commit and push the changes to your GitHub repository.
+## 6. CI/CD Pipeline Overview
+**Objective**: Understand how CI/CD pipelines contribute to the development process.
 
-Repo:
+**Instructions**:
 
-GitHub repository: airbnb-clone-project
-File: README.md
-7. Manual Review
-mandatory
-Repo:
+- In your README.md file, create a section called “CI/CD Pipeline”.
 
-GitHub repository: airbnb-clone-project
-File: README.md
+- Briefly explain what CI/CD pipelines are and why they are important for the project.
+
+- Mention the tools that could be used for this (e.g., GitHub Actions, Docker, etc.).
+
+- Commit and push the changes to your GitHub repository.
+
+**Repo**:
+
+- GitHub repository: airbnb-clone-project
+- File: README.md
+
+## 7. Manual Review
+**Repo**:
+
+- GitHub repository: airbnb-clone-project
+- File: README.md
